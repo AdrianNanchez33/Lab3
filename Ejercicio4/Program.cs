@@ -13,6 +13,7 @@
             Console.WriteLine(a1);
             Console.WriteLine(a2);
             Console.ReadKey();
+            Console.WriteLine("HOLA GIT");
         }
     }
 }

@@ -16,6 +16,7 @@ namespace Ejercicio5
 
             Console.WriteLine(a1.TieneTratoPreferencial(Servicio.Masaje));
             Console.WriteLine(a1.TieneTratoPreferencial(Servicio.Baño));
+            Console.WriteLine("HOLA");
 
             Console.ReadKey();
         }
