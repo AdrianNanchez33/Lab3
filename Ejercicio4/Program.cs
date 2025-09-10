@@ -9,7 +9,7 @@
 
             Auto a1 = new Auto("Gol G7", "Volkswagen", d1, new DateTime(2018, 11, 25));
             Auto a2 = new Auto("A3", "Audi", d2, new DateTime(2024, 12, 20));
-            //hh
+            
             Console.WriteLine(a1);
             Console.WriteLine(a2);
             Console.ReadKey();
