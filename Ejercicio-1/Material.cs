@@ -12,7 +12,7 @@ namespace Ejercicio_1
         private static int UltimoId { get; set; } = 1;
         public string Nombre { get; set; }
         public string PaisOrigen {  get; set; }
-
+////HOLA VS
         public Material()
         {
             Id = UltimoId++;
